@@ -153,7 +153,7 @@ new TypeIt("#teks1", {
 }).go();
 
 new TypeIt("#teks2", {
-  strings: ["Haii Kamu!!", "Happy Birthday ya..", " ", "Ciie udah 22 tahun, padahal baru aja beberapa hari kemarin umur kita sama hehe, semoga di umur yang sekarang kamu bisa jadi pribadi yang lebih baik lagi, lebih rajin, lebih sholehah, dan lebih berbakti.", "Maaf ya aku gabisa kasih surprise yang romantis. Cuma ini yang bisa aku kasih ke kamu, aku harap kamu suka ya :)", "Sekali lagi, Selamat Ulang Tahun ya. Semoga semua impian, keinginan, dan harapan kamu bisa tercapai, Aamiin."],
+  strings: ["Haii Kamu!!", "Happy Birthday ya..", " ", "Ciie udah 22 tahun, padahal baru aja beberapa hari kemarin kita dipertemukan udah nyaman aja hehe, semoga di umur yang sekarang kamu bisa jadi pribadi yang lebih baik lagi, lebih rajin, lebih kuat, dan lebih berbakti.", "Maaf ya aku gabisa kasih surprise yang romantis. Cuma ini yang bisa aku kasih ke kamu, aku harap kamu suka ya :)", "Sekali lagi, Selamat Ulang Tahun ya. Semoga semua impian, keinginan, dan harapan kamu bisa tercapai, Aamiin."],
   startDelay: 2000,
   speed: 75,
   waitUntilVisible: true
@@ -163,7 +163,7 @@ new TypeIt("#teks2", {
 new TypeIt("#trims", {
   strings: ["Terimakasih."],
   startDelay: 2000,
-  speed: 150,
+  speed: 200,
   loop: false,
   waitUntilVisible: true,
 }).go();
